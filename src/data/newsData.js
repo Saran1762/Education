@@ -1,0 +1,58 @@
+export const newsArticles = [
+  {
+    id: 'art-craft-workshop-2026',
+    category: 'Events',
+    date: '14.02.2026',
+    title: 'Art & craft workshop on 14.02.2025',
+    image: '/news/art-craft.png',
+    paragraphs: [
+      'Mother Teresa College of Education invites you to our exciting Art & Craft Workshop on February 14, 2026, at our Multi Purpose Hall in Mettusalai, Illuppur, Pudukkottai.',
+      'Let your little ones explore the beautiful garden of evergreen education through hands-on art activities, vibrant crafts, and creative expression! A day of colors, fun, and learning awaits!',
+    ],
+    downloadUrl: '/news/art-craft.png',
+    downloadFileName: 'Art-Craft-Workshop-Invitation.png',
+  },
+  {
+    id: 'pongal-celebrations-2026',
+    category: 'Events',
+    date: '10.01.2026',
+    title: 'Pongal Celebrations 2026',
+    image: '/news/pongal.png',
+    paragraphs: [
+      'அன்புடையீர், வணக்கம்.',
+      'நமது மதர்தெரசா கல்வி நிறுவனங்களில் கிராமிய பொங்கல் மற்றும் பாரம்பரிய விளையாட்டு திருவிழா 10.01.2026 சனிக்கிழமை காலை 8.00 மணி முதல் நடைபெறவுள்ளது.',
+      'அவ்வமயம் தாங்கள் விழாவில் கலந்துகொண்டு சிறப்பிக்க வேண்டுகின்றோம்.',
+      'விவசாய பெருமக்கள், பெற்றோர்கள், பொதுமக்கள், அனைவரையும் அன்புடன் வருக! வருக! என வரவேற்கிறோம்.',
+      'அன்புடன் அழைப்பது...',
+      'நிறுவனர், தாளாளர், முதல்வர்கள், பேராசிரியர்கள், அலுவலகப் பணியாளர்கள் மற்றும் மாணவ - மாணவிகள்.',
+    ],
+    downloadUrl: '/news/pongal.png',
+    downloadFileName: 'Pongal-Celebrations-2026-Invitation.png',
+  },
+  {
+    id: 'oer-digital-learning-seminar',
+    category: 'News',
+    date: '30.12.2025',
+    title: 'Open Educational Resources: Opportunities and Challenges in Digital Learning',
+    image: '/news/oer-seminar.png',
+    paragraphs: [
+      'Mother Teresa College of Education cordially invites academicians, researchers, and educators to participate in the National Seminar on "Open Educational Resources: Opportunities and Challenges in Digital Learning."',
+    ],
+    downloadUrl: '/news/oer-seminar.png',
+    downloadFileName: 'National-Seminar-OER-Digital-Learning.png',
+  },
+  {
+    id: 'maths-day-celebration-2025',
+    category: 'Events',
+    date: '22.12.2025',
+    title: 'National Mathematics Day Celebration',
+    image: '/news/maths-day.png',
+    paragraphs: [
+      'Honouring the birth anniversary of mathematical genius Srinivasa Ramanujan with inspiring talks, student activities, and competitions. On Monday, 22.12.2025, National Mathematics Day was celebrated at Mother Teresa College of Education to commemorate the birth anniversary of the great mathematical genius Srinivasa Ramanujan.',
+      'The programme was conducted with the best wishes of the Founder of Mother Teresa Educational Institutions, Dr. R. Chinnathambi, and the Secretary, Mr. R. C. Udayakumar. The college professors Ms. P. Rajeswari, Dr. S. T. Arunadevi, and Mr. C. Karuppaiah extended their greetings.',
+      'The Principal, Dr. S. Chithra, delivered the presidential address and shared valuable insights with the students. First-year students spoke about the life history of the mathematical genius Ramanujan and presented poems related to him. Various competitions were conducted for the students, and prizes were distributed to the winners.',
+    ],
+    downloadUrl: '/news/maths-day.png',
+    downloadFileName: 'National-Mathematics-Day-Celebration.png',
+  },
+]
